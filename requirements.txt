@@ -2,4 +2,4 @@ fastapi
 openai
 langchain
 uvicorn
-
+langchain.schema
