@@ -27,7 +27,7 @@ class MessageInput(BaseModel):
     character: Dict[str, str]  # New field
 
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 
 
 @app.post("/chat")
